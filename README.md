@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Alessandro 👋
+
+- 👨‍🎓 I'm a MSc student in Computer Science and Engineering at Politecnico di Milano
+- 📝 I'm currently working on my Master Thesis on a distributed RDF store and SPARQL query engine
+- 🌱 I'm interested in Software Engineering, Distributed Systems, Cybersecurity, Transport and Mobility
+- 🔑 My PGP key fingerprint is `D214 DEB1 07A8 041C B79D A79F DA4F 2E20 165F 1808` [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/D214DEB107A8041CB79DA79FDA4F2E20165F1808)
 
 <!--
 **fuljo/fuljo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
